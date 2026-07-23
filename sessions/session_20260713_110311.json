@@ -1,0 +1,40 @@
+{
+  "timestamp": "20260713_110311",
+  "phq_score": 1,
+  "agent": "Agent_L",
+  "history": [
+    {
+      "role": "user",
+      "content": "I have exams coming up and feeling a bit nervous"
+    },
+    {
+      "role": "assistant",
+      "content": "It's completely normal to feel nervous before exams. Can you tell me more about what's going through your mind right now - what are you most worried about regarding these exams?"
+    },
+    {
+      "role": "user",
+      "content": "But I think I can manage it"
+    },
+    {
+      "role": "assistant",
+      "content": "That's a positive attitude to have. What makes you feel like you can manage it, is there something specific that's giving you confidence?"
+    },
+    {
+      "role": "user",
+      "content": "Just need some motivation to study"
+    },
+    {
+      "role": "assistant",
+      "content": "What is it about studying that you think would get you motivated? Is there a particular subject or topic that you're actually interested in, or maybe a goal you have in mind that studying will help you achieve?"
+    },
+    {
+      "role": "user",
+      "content": "I feel okay overall just stressed about results"
+    },
+    {
+      "role": "assistant",
+      "content": "It's understandable to feel stressed about results, even when you're feeling okay overall. What is it about the results that's causing you the most stress - is it the fear of not doing well, or something else?"
+    }
+  ],
+  "progress_log": []
+}

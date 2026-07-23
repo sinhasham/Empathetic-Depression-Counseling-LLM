@@ -1,0 +1,48 @@
+{
+  "timestamp": "20260713_104027",
+  "phq_score": 10,
+  "agent": "Agent_L",
+  "history": [
+    {
+      "role": "user",
+      "content": "I am doing fine just wanted to chat today"
+    },
+    {
+      "role": "assistant",
+      "content": "That's great to hear that you're doing fine. What made you feel like chatting today, was there something on your mind or just wanted some company?"
+    },
+    {
+      "role": "user",
+      "content": "Life is good just a bit busy with college"
+    },
+    {
+      "role": "assistant",
+      "content": "College life can be pretty hectic, but it's great that you're managing to keep a positive outlook. What's been the most interesting part of college for you so far, is it the classes, the people, or something else?"
+    },
+    {
+      "role": "user",
+      "content": "I have been enjoying my hobbies lately"
+    },
+    {
+      "role": "assistant",
+      "content": "That's awesome! It's great that you're making time for the things you enjoy. What kind of hobbies have you been getting into, is it something new you've picked up or something you've been passionate about for a while?"
+    },
+    {
+      "role": "user",
+      "content": "I feel happy when I spend time with friends"
+    },
+    {
+      "role": "assistant",
+      "content": "That's wonderful! Spending time with friends can be such a great way to unwind and feel connected. What is it about hanging out with friends that makes you feel happy, is it the laughter, the conversations, or just having people around you?"
+    },
+    {
+      "role": "user",
+      "content": "Overall I think I am doing well"
+    },
+    {
+      "role": "assistant",
+      "content": "That's really great to hear that you feel like you're doing well overall. What do you think has contributed to this positive feeling, is it the hobbies, the time with friends, or something else in your life that's been going smoothly?"
+    }
+  ],
+  "progress_log": []
+}

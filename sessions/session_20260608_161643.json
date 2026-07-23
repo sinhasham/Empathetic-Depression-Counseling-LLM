@@ -1,0 +1,40 @@
+{
+  "timestamp": "20260608_161643",
+  "phq_score": 9,
+  "agent": "Agent_L",
+  "history": [
+    {
+      "role": "user",
+      "content": "hey"
+    },
+    {
+      "role": "assistant",
+      "content": "It's nice to meet you. Is there something on your mind that you'd like to talk about, or is this just a moment for you to take a breath and see where the conversation takes us?"
+    },
+    {
+      "role": "user",
+      "content": "i want to end my life"
+    },
+    {
+      "role": "assistant",
+      "content": "\nI hear you, and I'm really glad you're talking to me right now.\n\nWhat you're feeling matters, and you don't have to face this alone.\n\nBefore we continue, I want to make sure you're safe.\nPlease reach out to a crisis counselor who can support you right now:\n\n\n🆘 IMMEDIATE SUPPORT AVAILABLE:\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n📞 iCall (India):        9152987821\n📞 Vandrevala Foundation: 1860-2662-345 (24/7)\n📞 AASRA:               91-22-27546669\n💬 iCall Chat: https://icallhelpline.org\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nYou are not alone. Help is available right now.\n\n\nI'm still here with you. Can you tell me — are you safe right now?\n"
+    },
+    {
+      "role": "user",
+      "content": "yes i am"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm really glad to hear that you're safe right now. That's a huge relief. \n\nCan you tell me what's been going on that's making you feel like you want to end your life? What's been on your mind and in your heart lately?"
+    },
+    {
+      "role": "user",
+      "content": "yess i am fine need to do some rest byee"
+    },
+    {
+      "role": "assistant",
+      "content": "It can be really tough to open up and talk about difficult feelings, and I appreciate the little bit that you did share with me. If you're feeling like you need some rest, that's totally okay - taking care of yourself is important. Before you go, is it okay if I check in with you another time to see how you're doing?"
+    }
+  ],
+  "progress_log": []
+}

@@ -1,0 +1,48 @@
+{
+  "timestamp": "20260713_110707",
+  "phq_score": 20,
+  "agent": "Agent_H",
+  "history": [
+    {
+      "role": "user",
+      "content": "I feel like I have failed at everything in life"
+    },
+    {
+      "role": "assistant",
+      "content": "That can be a really tough feeling to have, like a weight is constantly pulling you down. Can you tell me more about what's been going on that's making you feel this way, like what are some of the things that are making you think you've failed at everything?"
+    },
+    {
+      "role": "user",
+      "content": "I feel like I have failed at everything in life"
+    },
+    {
+      "role": "assistant",
+      "content": "It sounds like you're feeling really stuck and frustrated with your life right now. Can you think of one specific area where you feel like you've failed, and what's going through your mind when you think about that?"
+    },
+    {
+      "role": "user",
+      "content": "My family is disappointed in me"
+    },
+    {
+      "role": "assistant",
+      "content": "That can be a really painful feeling, knowing that the people you care about most are disappointed in you. What do you think is the main reason your family is disappointed in you, is it something specific that you've done or not done?"
+    },
+    {
+      "role": "user",
+      "content": "I dont think I can ever get better"
+    },
+    {
+      "role": "assistant",
+      "content": "It sounds like you're feeling really overwhelmed and hopeless about your recovery right now. When you say \"I dont think I can ever get better\", what's going through your mind that makes you feel like that's not possible?"
+    },
+    {
+      "role": "user",
+      "content": "I feel completely lost and dont know what to do"
+    },
+    {
+      "role": "assistant",
+      "content": "It can be really scary to feel that lost. One thing that might help is to break things down into smaller, more manageable steps. Instead of looking at the whole picture and feeling overwhelmed, what if we try to focus on just one thing that you need to do right now? Would that feel a bit more doable for you?"
+    }
+  ],
+  "progress_log": []
+}

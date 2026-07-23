@@ -1,0 +1,56 @@
+{
+  "timestamp": "20260713_105549",
+  "phq_score": 16,
+  "agent": "Agent_M",
+  "history": [
+    {
+      "role": "user",
+      "content": "Sometimes I think everyone would be better off without me"
+    },
+    {
+      "role": "assistant",
+      "content": "\nI hear you, and I'm really glad you're talking to me right now.\n\nWhat you're feeling matters, and you don't have to face this alone.\n\nBefore we continue, I want to make sure you're safe.\nPlease reach out to a crisis counselor who can support you right now:\n\n\n🆘 IMMEDIATE SUPPORT AVAILABLE:\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n📞 iCall (India):        9152987821\n📞 Vandrevala Foundation: 1860-2662-345 (24/7)\n📞 AASRA:               91-22-27546669\n💬 iCall Chat: https://icallhelpline.org\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nYou are not alone. Help is available right now.\n\n\nI'm still here with you. Can you tell me — are you safe right now?\n"
+    },
+    {
+      "role": "user",
+      "content": "i am feel like i dont waana be heer"
+    },
+    {
+      "role": "assistant",
+      "content": "i can feel how much pain u r in, it's like u feel stuck and dont see a way out, na? can u tell me more about what's making u feel like u dont waana be here?"
+    },
+    {
+      "role": "user",
+      "content": "i want hurt"
+    },
+    {
+      "role": "assistant",
+      "content": "\nI hear you, and I'm really glad you're talking to me right now.\n\nWhat you're feeling matters, and you don't have to face this alone.\n\nBefore we continue, I want to make sure you're safe.\nPlease reach out to a crisis counselor who can support you right now:\n\n\n🆘 IMMEDIATE SUPPORT AVAILABLE:\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n📞 iCall (India):        9152987821\n📞 Vandrevala Foundation: 1860-2662-345 (24/7)\n📞 AASRA:               91-22-27546669\n💬 iCall Chat: https://icallhelpline.org\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nYou are not alone. Help is available right now.\n\n\nI'm still here with you. Can you tell me — are you safe right now?\n"
+    },
+    {
+      "role": "user",
+      "content": "Yaar mujhe bahut akela feel hota hai lately"
+    },
+    {
+      "role": "assistant",
+      "content": "Yaar, akela mehsoos hona ek bahut hi mushkil cheez hoti hai, na? Lately aapko iss tarah ka feel kyun ho raha hai, kuch khaas baat hai ya bas aisa lagta hai ki sab kuch theek nahi hai?"
+    },
+    {
+      "role": "user",
+      "content": "Koi samajhta hi nahi mujhe"
+    },
+    {
+      "role": "assistant",
+      "content": "Yaar, yeh sunke bahut dukh ho raha hai ki tumhe lagta hai ki koi tumhe samajhta hi nahi. Aisa lagta hai ki tum apne feelings aur thoughts ko share karne ki koshish kar rahe ho, lekin tumhe lagta hai ki log tumhe samajh nahi pa rahe. Kya tumhe lagta hai ki agar tum apni baatein kisi ke saath share karo, toh woh tumhe sach mein samajh paayega? Ya phir tumhe lagta hai ki log tumhari baaton ko ignore kar denge ya tumhe tumhari feelings ke bare mein galat samjhenge?"
+    },
+    {
+      "role": "user",
+      "content": "Padhai mein bilkul man nahi lagta"
+    },
+    {
+      "role": "assistant",
+      "content": "Padhai mein man na lagna ek bahut bada issue ho sakta hai, na? Aisa lagta hai ki agar tumhe apni padhai mein interest na ho, toh tumhare liye agle steps lene mein mushkil ho sakti hai. Tumne kab se mehsoos kiya hai ki tumhe padhai mein man nahi lagta? Kya koi particular subject hai jisme tumhe zyada mushkil ho rahi hai, ya phir overall padhai mein tumhe boredom mehsoos ho raha hai?"
+    }
+  ],
+  "progress_log": []
+}

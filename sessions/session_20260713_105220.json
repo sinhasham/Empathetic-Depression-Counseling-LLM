@@ -1,0 +1,24 @@
+{
+  "timestamp": "20260713_105220",
+  "phq_score": 19,
+  "agent": "Agent_M",
+  "history": [
+    {
+      "role": "user",
+      "content": "bad"
+    },
+    {
+      "role": "assistant",
+      "content": "kya ho rha hai, kuch galat ho gya? (what's going on, did something go wrong?)"
+    },
+    {
+      "role": "user",
+      "content": "Sometimes I think everyone would be better off without me"
+    },
+    {
+      "role": "assistant",
+      "content": "That can be a really painful and isolating thought to have. It sounds like you're feeling like a burden to others, and that's a incredibly heavy weight to carry. Can you tell me more about what's been going on that's making you feel this way?"
+    }
+  ],
+  "progress_log": []
+}

@@ -1,0 +1,16 @@
+{
+  "timestamp": "20260715_162300",
+  "phq_score": 19,
+  "agent": "Agent_M",
+  "history": [
+    {
+      "role": "user",
+      "content": "I've been feeling overwhelmed for the past few weeks. I can't focus on my studies anymore, and I keep thinking that I'm not good enough. Even when people try to encourage me, I still feel hopeless and exhausted."
+    },
+    {
+      "role": "assistant",
+      "content": "It sounds like things have been really tough for you lately. Can you tell me more about what's been going on with your studies that's making you feel so overwhelmed and like you're not good enough?"
+    }
+  ],
+  "progress_log": []
+}

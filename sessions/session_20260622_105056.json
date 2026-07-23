@@ -1,0 +1,40 @@
+{
+  "timestamp": "20260622_105056",
+  "phq_score": 10,
+  "agent": "Agent_L",
+  "history": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "hi, how's it going?"
+    },
+    {
+      "role": "user",
+      "content": "nothing"
+    },
+    {
+      "role": "assistant",
+      "content": "sometimes days can be like that, nothing much happening. what do you usually do on days like this?"
+    },
+    {
+      "role": "user",
+      "content": "nothing"
+    },
+    {
+      "role": "assistant",
+      "content": "it can be a bit boring when there's nothing much going on. do you usually watch something, read a book, or just chill when you're feeling like this?"
+    },
+    {
+      "role": "user",
+      "content": "yes"
+    },
+    {
+      "role": "assistant",
+      "content": "so you do watch something or read a book when you're feeling like this. what kind of things do you like to watch or read, anything in particular?"
+    }
+  ],
+  "progress_log": []
+}
