@@ -96,12 +96,3 @@ If you use this work, please cite
 
 ---
 
-## License
-
-MIT License
-
----
-
-## Disclaimer
-
-This software is intended **for research and educational purposes only** and is **not a substitute for professional medical advice, diagnosis, or treatment**.
