@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+
+title: "Empathetic Depression Counseling LLM"
+
+message: "If you use this software, please cite it."
+
+authors:
+  - family-names: Sinha
+    given-names: Shambhavi
+
+version: 1.0.0
+
+date-released: 2026-07-28
+
+repository-code: "https://github.com/sinhasham/Empathetic-Depression-Counseling-LLM"
+
+license: MIT
+
+keywords:
+  - Depression
+  - LLM
+  - PHQ-9
+  - Mental Health
+  - RAG
+  - Chain of Thought
+  - Chain of Empathy
