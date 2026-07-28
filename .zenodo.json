@@ -1,0 +1,22 @@
+{
+  "title": "Empathetic Depression Counseling LLM",
+  "creators": [
+    {
+      "name": "Shambhavi Sinha",
+      "affiliation": "D. Y. Patil International University"
+    }
+  ],
+  "description": "An LLM-based empathetic depression counseling framework integrating PHQ-9, Chain of Thought, Chain of Empathy, Retrieval-Augmented Generation, and crisis detection.",
+  "license": "MIT",
+  "keywords": [
+    "Depression",
+    "Mental Health",
+    "LLM",
+    "RAG",
+    "PHQ-9",
+    "AI",
+    "Counseling"
+  ],
+  "upload_type": "software",
+  "access_right": "open"
+}
